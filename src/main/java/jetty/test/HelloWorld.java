@@ -16,7 +16,7 @@ import org.eclipse.jetty.server.handler.AbstractHandler;
 public class HelloWorld extends AbstractHandler {
     @Override
     public void handle(String target, Request baseRequest, HttpServletRequest request, HttpServletResponse response)
-            throws IOException, ServletException {
+            throws IOException {
         // 声明response的编码和文件类型
         response.setContentType("text/html; charset=utf-8");
 
