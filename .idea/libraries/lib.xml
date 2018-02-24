@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://E:/EclipseWorkSpace/DBToHDFS/lib/commons-lang3-3.2.1.jar!/" />
+      <root url="jar://E:/EclipseWorkSpace/DBToHDFS/lib/ojdbc7.jar!/" />
+      <root url="jar://E:/EclipseWorkSpace/DBToHDFS/lib/spark-assembly-1.6.0-hadoop2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
