@@ -20,5 +20,6 @@ public class Java8Sort {
         //找到第一个
         String result = mp.entrySet().stream().sorted(Map.Entry.comparingByKey()).findFirst().map(x -> x.getValue()).get();
         System.out.println(result);
+        //测试
     }
 }
